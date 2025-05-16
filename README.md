@@ -1,5 +1,15 @@
-# 💫 About Me:
-- 🔭 I’m currently working for Margera As an analytics Software Engineer, focusing on JavaScript  
+### 👋 Hi there!
+
+I'm a JavaScript developer passionate about building fast and modern web applications.
+
+**Currently focused on:**
+
+*  ⚛️ React
+* ✨ Astro
+* 🚀 Node.js
+* 🐘 Supabase
+
+I value clean code, fast load times, and keeping things simple.
 
 
 ## 🌐 Socials:
